@@ -1,6 +1,8 @@
 # SRM Full Stack Engineering Challenge — Round 1
 
-https://bajaj-bfhl-five.vercel.app/
+Frontend URL : https://bajaj-bfhl-five.vercel.app/
+
+Backend API Base URL : https://bajaj-bfhl-aoda.onrender.com/
 
 ## Setup
 
